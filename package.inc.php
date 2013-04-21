@@ -11,5 +11,5 @@ MLCApplicationBase::$arrClassFiles['MCAPI'] = __MLC_MAILCHIMP_CORE__ . '/MCAPI.c
 MLCApplicationBase::$arrClassFiles['MLCMailChimpDriver'] = __MLC_MAILCHIMP_CORE__ . '/MLCMailChimpDriver.class.php';
 
 
-require_once(__MLCJETSTRAP_CORE__ . '/_enum.inc.php');
-MLCJetstrapDriver::Init();
+//require_once(__MLC_MAILCHIMP_CORE__ . '/_enum.inc.php');
+
